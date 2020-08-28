@@ -9,15 +9,13 @@
 
 ### ✨ 追梦小窝 ✨ 
 
-👋👋👋这是我最近整理的一些计划，由于有些东西不是很了解，下面吧这些东西列入以后的充电计划中，按照下面的计划不断完善自己，温故而知新
+👋👋👋欢迎欢迎
 
-- [设计模式](https://laravel.com/docs/routing)
-- [MongoDB](MongoDB/readme.md)
-- [Swoole](https://laravel.com/docs/container)
-- [KafKa](https://laravel.com/docs/session) 以及 [Rabbitmq](https://laravel.com/docs/cache) 
-- [Mysql](https://laravel.com/docs/eloquent)调优技巧.
-- 算法数据结构
-- Nginx负载均衡和Nginx反向代理
-- [Hadoop快速入门](https://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html)
+- [🖥InspiniaAdmin后台模板](https://iszmxw.github.io/InspiniaAdmin/)
+- [GoStudy](https://github.com/iszmxw/GoStudy)
+- [health](https://github.com/iszmxw/health)
+- [mysql-markdown](https://github.com/iszmxw/mysql-markdown) 
+- [IpAddress](https://github.com/iszmxw/IpAddress)
+- [iszmxw.github.io](https://github.com/iszmxw/iszmxw.github.io)
 
 
