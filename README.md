@@ -11,13 +11,13 @@
 
 👋👋👋欢迎欢迎👋👋👋
 
-- [🖥追梦小窝笔记](https://iszmxw.github.io/studys)
-- [🖥InspiniaAdmin后台模板](https://github.com/iszmxw/InspiniaAdmin)
-- [🖥BeyondAdmin后台模板](https://github.com/iszmxw/BeyondAdmin)
-- [🖥health模块](https://github.com/iszmxw/health模块)
-- [🖥插件mysql-markdown](https://github.com/iszmxw/mysql-markdown)
-- [🖥插件IpAddress](https://github.com/iszmxw/IpAddress)
-- [🖥文档仓库](https://github.com/iszmxw/iszmxw.github.io)
+- [🖥笔记：后端](https://iszmxw.github.io/studys)
+- [🖥后台模板：InspiniaAdmin](https://github.com/iszmxw/InspiniaAdmin)
+- [🖥后台模板：BeyondAdmin](https://github.com/iszmxw/BeyondAdmin)
+- [🖥插件：mysql-markdown](https://github.com/iszmxw/mysql-markdown)
+- [🖥插件：IpAddress](https://github.com/iszmxw/IpAddress)
+- [🖥模块：health](https://github.com/iszmxw/health模块)
+- [🖥文档：Github仓库](https://github.com/iszmxw/iszmxw.github.io)
 
 # 微信
 
