@@ -16,7 +16,7 @@
 - [🖥后台模板：BeyondAdmin](https://github.com/iszmxw/BeyondAdmin)
 - [🖥插件：mysql-markdown](https://github.com/iszmxw/mysql-markdown)
 - [🖥插件：IpAddress](https://github.com/iszmxw/IpAddress)
-- [🖥模块：health](https://github.com/iszmxw/health模块)
+- [🖥模块：health](https://github.com/iszmxw/health)
 - [🖥文档：Github仓库](https://github.com/iszmxw/iszmxw.github.io)
 
 # 微信
