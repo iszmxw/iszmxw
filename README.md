@@ -1,4 +1,5 @@
 <p align="center"><img src="https://avatars2.githubusercontent.com/u/31272102" width="100"></p>
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=iszmxw&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" /></p>
 <h3 align="center">追梦小窝</h3>
 <p align="center">
 <a href="https://github.com/iszmxw/"><img src="https://img.shields.io/badge/%E5%88%86-%E4%BA%AB-green?logo=symantec&style=plastic" alt="分享"></a>
