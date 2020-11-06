@@ -7,8 +7,6 @@
 <a href="https://github.com/iszmxw/"><img src="https://img.shields.io/badge/License-MIT-red" alt="License"></a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iszmxw&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 # ✨ 好东西大家一起来分享 ✨ 
 
 👋👋👋欢迎欢迎👋👋👋
