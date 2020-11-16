@@ -1,4 +1,6 @@
+<!-- 
 <p align="center"><img src="https://avatars2.githubusercontent.com/u/31272102" width="100"></p>
+-->
 <h3 align="center">追梦小窝</h3>
 <p align="center">
 <a href="https://github.com/iszmxw/"><img src="https://img.shields.io/badge/%E5%88%86-%E4%BA%AB-green?logo=symantec&style=plastic" alt="分享"></a>
