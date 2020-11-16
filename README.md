@@ -7,6 +7,13 @@
 <a href="https://github.com/iszmxw/"><img src="https://img.shields.io/badge/License-MIT-red" alt="License"></a>
 </p>
 
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iszmxw&show_icons=true&theme=radical&line_height=40)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&&theme=radical&show_icons=true)]
+
+
 # ✨ 好东西大家一起来分享 ✨ 
 
 👋👋👋欢迎欢迎👋👋👋
