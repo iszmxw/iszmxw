@@ -10,7 +10,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iszmxw&show_icons=true&theme=radical&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&&theme=radical&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&show_icons=true&theme=radical&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)]
 
 
 # ✨ 好东西大家一起来分享 ✨ 
