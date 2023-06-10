@@ -10,8 +10,8 @@
 </p>
 
 
-![EthanYep's github stats](https://github-readme-stats.vercel.app/api?username=iszmxw&show_icons=true&theme=tokyonight&layout=compact&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515&locale=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&langs_count=20&theme=tokyonight&layout=compact&locale=cn)
+![EthanYep's github stats](https://github-readme-stats.vercel.app/api?username=iszmxw&show_icons=true&theme=radical&layout=compact&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515&locale=cn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&langs_count=10&theme=radical&layout=compact&locale=cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&show_icons=true&langs_count=10&theme=radical&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515&locale=cn)
 
