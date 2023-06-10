@@ -12,9 +12,9 @@
 
 ![EthanYep's github stats](https://github-readme-stats.vercel.app/api?username=iszmxw&show_icons=true&theme=radical&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515&locale=cn)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&langs_count=10&theme=tokyonight&layout=compact&locale=cn" alt="AnhellO :: Top Langs" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&langs_count=10&theme=tokyonight&layout=compact&locale=cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&show_icons=true&theme=radical&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515&locale=cn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iszmxw&show_icons=true&langs_count=10&theme=radical&line_height=40&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515&locale=cn)
 
 
 # ✨ 笔记分享 ✨ 
